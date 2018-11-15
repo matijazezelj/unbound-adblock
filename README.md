@@ -13,6 +13,7 @@ include:/var/unbound/ad-blacklist.conf
 After that you can restart/reload unbound and it will block ads.
 
 Atm following lists are used:
+
 http://winhelp2002.mvps.org/hosts.txt
 http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://adaway.org/hosts.txt
