@@ -26,7 +26,9 @@ https://hosts-file.net/ad_servers.txt
 
 This script WAS NOT originally written by me!
 
-Lists used here are all default pihole lists which are proven good and valid and some additional i found online
+I found it on https://devinstechblog.com/block-ads-with-dns-in-opnsense/ and modified it a bit
+
+Lists used here are all default pihole lists which are proven good and valid and some additional found online
 
 Please add more lists if you want. awk line will change any line taht has  something like
 
